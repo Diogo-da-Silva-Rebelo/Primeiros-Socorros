@@ -9,7 +9,7 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
  Os Primeiros Socorros têm o objetivo de manter os sinais vitais da vítima, estabilizar e evitar o seu agravamento. No fundo, pretende-se ganhar tempo. Este socorro divide-se em Socorro Essencial e Socorro Secundário. O primeiro é para situações prioritárias, seguindo a terminologia ACHE (Alterações cardiorespiratórias, Choque, Hemorragia, Envenenamento); já o segundo é para situações em que a vida da vítima não está em risco, seguindo a terminologia FQF (Feridas, Queimaduras, Fraturas). Claramente, estas terminologias/mnemónicas foram inventadas por mim para mais fácil fixação. O SNS articula cuidados de saúde primários com os cuidados continuados & hospitalares.
  
-# 1. SIEM - Sistema Integrado de Emergência Médica
+## 1. SIEM - Sistema Integrado de Emergência Médica
 - Conjunto de ações hospitalares coordenadas, dos vários elementos do Sistema Nacional de Saúde (SNS), com o objetivo de potenciar uma atuação em situações de emergência;
 - Inclui:
    - Urgências e emergências;
@@ -21,7 +21,7 @@
       - Público;
       - Operadores do 112;
       - Técnicos do CODU (Centros de Orientação de Doentes Urgentes);
-      - Agentes (PSP,etc.);
+      - Agentes (PSP, etc.);
       - Bombeiros;
       - Técnicos e Tripulantes de ambulância.
 - Fases:
@@ -51,3 +51,5 @@ SBV (VE)    | Suporte Básico de Vida                       | Ambulâncias espec
 SIV (VE)    | Suporte Invasivo de Vida                     | Ambulâncias adaptadas a procedimentos invasivos, com um TAE e um enfermeiro
 TIP (VE)    | Transporte Inter-hospitalar Pediátrico       | Viatura de crianças (menores de 18 anos, recém-nascidos), com um médico, enfermeiro e TAE
 VMER (VE)   | Viaturas Médicas de Emergência de Reanimação | Viaturas de socorro em emergência com um médico e um enfermeiro
+
+## 2. IACS - Infeções Associadas a Cuidados de Saúde
