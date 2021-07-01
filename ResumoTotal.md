@@ -37,7 +37,9 @@
    3. Restabelecer a condição de saúde da vítima;
    4. Estabilizar a mesma.
 - Organização do SIEM:
+
 (Utiliza-se a abreviação VE para Viaturas de Emergência)
+
 Organização | Descrição                                    | Características
 :--------:  | :------------------------------------------: | :-------------------------------------------------------------------------------------:
 INEM        | Instituto de Emergência Médica               | Auxilia no socorro de vítimas
